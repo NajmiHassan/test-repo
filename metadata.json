@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Receipt Parser Pro",
+  "description": "An intelligent receipt scanner that automatically extracts expense data from images using AI, structures it into a table, and saves it directly to your Notion database.",
+  "requestFramePermissions": []
+}
